@@ -1,0 +1,31 @@
+ <div style="margin-top: -800px;display: flex;">
+        <a href="home.html"><img src="Vector.png" style="width: 25px;height: 25px;margin-left: 20px;">
+    </div>
+
+    <div style="margin-top: -700px;display: flex;">
+        <a href="std signin.html"><img src="Vector.png" style="width: 25px;height: 25px;">  
+    </div>
+
+
+    <div class="sign">  
+        <a href="fc signuo.html"><img src="Vector.png" style="width: 25px;height: 25px; margin-top:-300px;">  
+            <h2 style="font-family: Ink free;margin-left: 150px;color: black;">Welcome newbie</h2>
+        <div class="box";>
+        <input type="text" id="name" placeholder="name"><br><br>
+        <input type="tel" id="mobile" placeholder="phone"><br><br>
+        <input type="email" id="email" placeholder="email"><br><br>
+        <input type="password" id="password" placeholder="enter your password"><br><br>
+        <input type="password" id="password2" placeholder="enter your password again"><br><br>
+        <button id="signup"> SIGNUP</button>
+        <a href="fc login.html" > login?</a>
+    </div>
+
+    <div style="margin-top: -700px;display: flex;">
+        <a href="fc signuo.html"><img src="Vector.png" style="width: 25px;height: 25px;">  
+    </div>
+
+    <a href="home.html"><img src="Vector.png" style="width: 25px;height: 25px;"; id="Vector"></a>
+    <h2 style="font-family: Ink free;margin: 150px;color: black;">Welcome newbie</h2>
+
+
+    <a href="std signin.html"><img src="Vector.png" style=" height: 25px;width: 25px  ;margin-left: 500px;"></a>

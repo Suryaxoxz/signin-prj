@@ -1,0 +1,288 @@
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 640px;
+height: 832px;
+left: 652px;
+top: 0px;
+
+background: #FF8A00;
+
+
+/* Iconsax/Outline/arrowcircleleft2 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 20px;
+top: 20px;
+
+
+
+/* Iconsax/Linear/home2 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 100px;
+top: 20px;
+
+
+
+/* Welcome Newbie! */
+
+
+position: absolute;
+width: 286px;
+height: 40px;
+left: 173px;
+top: 106px;
+
+font-family: 'Ink Free';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 82px;
+top: 391px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 82px;
+top: 309px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+
+/* Rectangle 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 82px;
+top: 227px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 467px;
+height: 71px;
+left: 82px;
+top: 665px;
+
+background: #FF8A00;
+border-radius: 6px;
+
+
+/* Name */
+
+
+position: absolute;
+width: 227px;
+height: 40px;
+left: 89px;
+top: 231px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #FF8A00;
+
+
+
+/* Atleast 8 characters needed. */
+
+
+position: absolute;
+width: 227px;
+height: 40px;
+left: 89px;
+top: 515px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #FF8A00;
+
+
+
+/* Phone Number */
+
+
+position: absolute;
+width: 227px;
+height: 40px;
+left: 89px;
+top: 313px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #FF8A00;
+
+
+
+/* Email */
+
+
+position: absolute;
+width: 227px;
+height: 40px;
+left: 89px;
+top: 395px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #FF8A00;
+
+
+
+/* Sign Up */
+
+
+position: absolute;
+width: 227px;
+height: 40px;
+left: 202px;
+top: 681px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Login ? */
+
+
+position: absolute;
+width: 136px;
+height: 40px;
+left: 413px;
+top: 736px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #FF8A00;
+
+
+
+/* Faculty Password */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 48px;
+left: 82px;
+top: 468px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+
+/* Faculty Re-type */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 468px;
+height: 48px;
+left: 82px;
+top: 553px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+
+/* girl with books and pen in hand */
+
+
+position: absolute;
+width: 172px;
+height: 456px;
+left: 886px;
+top: 195px;
+
+background: url(.png);
+Go to main component
